@@ -51,22 +51,28 @@ cd book-website
 ### This command will start the application, and you can access it at http://localhost:3000.
 
 ## Usage
-### Register and Login
+
+## Register and Login
 ### Open your browser and navigate to http://localhost:3000.
 ### Register a new account or log in using an existing account.
 ### You can also log in using Google OAuth2.
-### Profile Management
+
+## Profile Management
 ### After logging in, you can view and edit your profile by navigating to the Profile page.
 ### Add or update your interests and other profile details.
-### Book Management
+
+## Book Management
 ### Upload new books, including book details and images, through the Upload page.
 ### Update or delete existing books from your listing. 
-### Search and Chat
+
+## Search and Chat
 ### Use the search functionality to find books.
 ### Chat with other users based on their nicknames.
-### Password Reset
+
+## Password Reset
 ### If you forget your password, use the reset password functionality to set a new password.
-### Contributing
+
+## Contributing
 ### Contributions are welcome! Please create a pull request or open an issue to discuss any changes or enhancements.
 
 ## License
