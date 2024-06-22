@@ -23,32 +23,32 @@ Before you begin, ensure you have met the following requirements:
 ## Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/book-website.git
-cd book-website
+- git clone https://github.com/your-username/book-website.git
+- cd book-website
  
 ## 2.Install dependencies
-###  npm install
+- npm install
 
 ## 3. Set up the database
-### Create a new PostgreSQL database.
-### Refer to the database.sql file in the repository to set up the required tables and initial data.
+- Create a new PostgreSQL database.
+- Refer to the database.sql file in the repository to set up the required tables and initial data.
 
 ## 4. Configure environment variables
-### Create a .env file in the root directory of your project and add your environment-specific variables. You can refer to the .env.example file provided in the repository.
+- Create a .env file in the root directory of your project and add your environment-specific variables. You can refer to the .env.example file provided in the repository.
 
 ## 5. env
-### SESSION_SECRET=your_session_secret
-### DB_USER=your_database_user
-### DB_PASSWORD=your_database_password
-### DB_NAME=your_database_name
-### DB_PORT=your_database_port
-### ClientId=your_google_client_id
-### ClientSecret=your_google_client_secret
-### Replace the placeholder values with your actual database credentials and Google OAuth2 credentials.
+- SESSION_SECRET=your_session_secret
+- DB_USER=your_database_user
+- DB_PASSWORD=your_database_password
+- DB_NAME=your_database_name
+- DB_PORT=your_database_port
+- ClientId=your_google_client_id
+- ClientSecret=your_google_client_secret
+- Replace the placeholder values with your actual database credentials and Google OAuth2 credentials.
 
 ## 6. Run the application
-### npm run start-all
-### This command will start the application, and you can access it at http://localhost:3000.
+- npm run start-all
+- This command will start the application, and you can access it at http://localhost:3000.
 
 ## Usage
 
