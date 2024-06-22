@@ -53,36 +53,36 @@ cd book-website
 ## Usage
 
 ## Register and Login
-### Open your browser and navigate to http://localhost:3000.
-### Register a new account or log in using an existing account.
-### You can also log in using Google OAuth2.
+- Open your browser and navigate to http://localhost:3000.
+- Register a new account or log in using an existing account.
+- You can also log in using Google OAuth2.
 
 ## Profile Management
-### After logging in, you can view and edit your profile by navigating to the Profile page.
-### Add or update your interests and other profile details.
+- After logging in, you can view and edit your profile by navigating to the Profile page.
+- Add or update your interests and other profile details.
 
 ## Book Management
-### Upload new books, including book details and images, through the Upload page.
-### Update or delete existing books from your listing. 
+- Upload new books, including book details and images, through the Upload page.
+- Update or delete existing books from your listing. 
 
 ## Search and Chat
-### Use the search functionality to find books.
-### Chat with other users based on their nicknames.
+- Use the search functionality to find books.
+- Chat with other users based on their nicknames.
 
 ## Password Reset
-### If you forget your password, use the reset password functionality to set a new password.
+- If you forget your password, use the reset password functionality to set a new password.
 
 ## Contributing
-### Contributions are welcome! Please create a pull request or open an issue to discuss any changes or enhancements.
+- Contributions are welcome! Please create a pull request or open an issue to discuss any changes or enhancements.
 
 ## License
-### This project is licensed under the MIT License. See the LICENSE file for more details.
+- This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgements
-### Express
-### Passport
-### PostgreSQL 
-### Multer
-### Axios
+- Express
+- Passport
+- PostgreSQL 
+- Multer
+- Axios
 
 ## Thank you for using our Book Website project!
